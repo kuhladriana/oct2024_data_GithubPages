@@ -1,1 +1,1 @@
-Front end data project, guilding an interactive dashboard. The subject is belly button diversity
+This is a front end data project, building an interactive dashboard. The dataset is belly button biodiversity which looks at the colonies of microbes that are with in human navels. The study showed that only a few OTUs (Operational taxonomic units) or microbial species were found in 70% of people.  
