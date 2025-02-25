@@ -1,2 +1,1 @@
-# oct2024_data_GithubPages
-Github pages for homeworks
+Front end data project, guilding an interactive dashboard. The subject is belly button diversity
